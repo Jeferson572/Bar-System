@@ -338,12 +338,6 @@ Proyecto desarrollado por:
 
 ---
 
-# 📄 Licencia
-
-MIT
-
----
-
 # 🚀 Estado del Proyecto
 
 En desarrollo

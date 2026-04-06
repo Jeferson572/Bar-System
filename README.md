@@ -7,6 +7,9 @@ Este proyecto está construido con una arquitectura **modular, escalable y profe
 ---
 
 # 📌 Tecnologías
+* Node 22.14.0
+* npm 10.9.2
+* PostgreSQL 17
 
 ## Frontend
 
